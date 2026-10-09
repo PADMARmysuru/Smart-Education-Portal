@@ -1,0 +1,12 @@
+{
+  "name": "Smart Education Portal",
+  "short_name": "Smart Edu",
+  "description": "Know early. Speak fearlessly. — Attendance, events, anonymous doubts & counselor, in one place.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f4f4f2",
+  "theme_color": "#FFD200",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
